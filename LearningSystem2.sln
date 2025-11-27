@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningSystem2", "LearningSystem2\LearningSystem2.csproj", "{32A3E751-75DA-4FF7-8B14-269736EF2125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningSystem", "..\..\..\..\LearningSystem\LearningSystem\LearningSystem.csproj", "{DDB109B8-F69D-BC1D-99EF-780D74EA2F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A3E751-75DA-4FF7-8B14-269736EF2125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A3E751-75DA-4FF7-8B14-269736EF2125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A3E751-75DA-4FF7-8B14-269736EF2125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A3E751-75DA-4FF7-8B14-269736EF2125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB109B8-F69D-BC1D-99EF-780D74EA2F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB109B8-F69D-BC1D-99EF-780D74EA2F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB109B8-F69D-BC1D-99EF-780D74EA2F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB109B8-F69D-BC1D-99EF-780D74EA2F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1723B173-8CC7-44CD-869D-0AF933C5F87B}
+	EndGlobalSection
+EndGlobal
